@@ -4,23 +4,6 @@ A backend service for **event booking and management**, built using **Node.js**,
 
 ---
 
-## 📚 Table of Contents
-
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Domain Overview](#domain-overview)
-- [Database Schema](#database-schema)
-- [Setup Instructions](#️setup-instructions)
-- [API Endpoints](#api-endpoints)
-- [Background Jobs](#background-jobs-bullmq)
-- [Testing](#testing)
-- [Role-Based Access Control](#role-based-access-control)
-- [Key Design Decisions](#key-design-decisions)
-- [Common Commands](#common-commands)
-- [Author](#author)
-
----
-
 ## 🚀 Tech Stack
 
 - **Node.js**
