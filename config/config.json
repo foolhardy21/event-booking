@@ -1,0 +1,14 @@
+{
+  "development": {
+    "storage": "./event_booking.sqlite",
+    "dialect": "sqlite"
+  },
+  "test": {
+    "storage": "./event_booking.sqlite",
+    "dialect": "sqlite"
+  },
+  "production": {
+    "storage": "./event_booking.sqlite",
+    "dialect": "sqlite"
+  }
+}
